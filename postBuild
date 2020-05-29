@@ -1,0 +1,3 @@
+set -e
+
+wget -q -O EAGLE_MW_trace_coords.npy "https://zenodo.org/record/3862934/files/EAGLE_MW_trace_coords.npy?download=1"
