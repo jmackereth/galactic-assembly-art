@@ -1,2 +1,5 @@
+ipywidgets
+ipympl
 numpy
 matplotlib
+voila 
