@@ -4,6 +4,6 @@ This is an interactive version of a visualisation that I originally made for und
 
 You can download and run the notebook, which will require you to also download the (1.4 GB) dataset from [here](https://www.zenodo.org/record/3865515/files/EAGLE_MW_trace_coords.npy?download=1) and place it in the same directory.
 
-Alternatively, you can use the binder/voila webapp version, by using this link: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jmackereth/galactic-assembly-art.git/master?urlpath=%2Fvoila%2Frender%2Fnotebook%2Fgalaxy-assembly-art.ipynb)
+Alternatively, you can use the binder/voila webapp version, by using this link: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jmackereth/galactic-assembly-art.git/master?urlpath=voila%2Frender%2Fnotebook%2Fgalaxy-assembly-art.ipynb)
 
 Be warned, the binder version takes quite some time to build, as it has to download the large data file necessary for the visualisation!
