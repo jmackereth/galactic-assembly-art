@@ -14,4 +14,4 @@ voila notebook/galaxy-assembly-art.ipynb
 
 Alternatively, you can use the binder/voila dashboard, at this link: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jmackereth/galactic-assembly-art/master?urlpath=%2Fvoila%2Frender%2Fnotebook%2Fgalaxy-assembly-art.ipynb)
 
-Be warned, the binder version takes quite some time to build and render, as it has to download the large data file necessary for the visualisation then load it into memory... The dashboard is not as responsive as it probably could be, and takes a while to render the new image upon changing settings, but it's fun to experiment!
+Be warned, the binder version takes quite some time to build and render, as it has to download the large data file necessary for the visualisation then load it into memory... The dashboard is not as responsive as it probably could be, and takes a while to render the new image upon changing settings, but it's fun to experiment! Perhaps one day, i'll be able to make it nice and fast!
