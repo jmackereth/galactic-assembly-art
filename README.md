@@ -1,4 +1,4 @@
-# Galactic Assembly as Abstract Art
+#  🌌 Galactic Assembly as Abstract Art
 
 <img src="img/demo.png" width="400px">
 
