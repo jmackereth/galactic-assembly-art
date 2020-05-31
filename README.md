@@ -1,4 +1,6 @@
-# Galactic Assembly as Abstract Art
+#  🌌 Galactic Assembly as Abstract Art
+
+## Powered by [matplotlib](https://matplotlib.org), [numpy](https://numpy.org), [ipywidgets](https://github.com/jupyter-widgets/ipywidgets), [voilà](https://github.com/voila-dashboards/voila) and the [EAGLE Simulations](http://eagle.strw.leidenuniv.nl)
 
 <img src="img/demo.png" width="400px">
 
