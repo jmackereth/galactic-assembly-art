@@ -2,7 +2,7 @@
 
 ## Powered by [matplotlib](https://matplotlib.org), [numpy](https://numpy.org), [ipywidgets](https://github.com/jupyter-widgets/ipywidgets), [voilà](https://github.com/voila-dashboards/voila) and the [EAGLE Simulations](http://eagle.strw.leidenuniv.nl)
 
-<img src="img/demo.png" width="400px">
+<img src="img/output.gif" width="400px">
 
 This is an interactive version of a visualisation that I originally made for understanding how galaxies assemble in the evolving Universe of the EAGLE simulations ([Schaye et al. 2015](https://ui.adsabs.harvard.edu/abs/2015MNRAS.446..521S/abstract), [Crain et al. 2015](https://ui.adsabs.harvard.edu/abs/2015MNRAS.450.1937C/abstract)). In the Lambda-Cold Dark Matter (LCDM) model, the current 'standard' cosmological model, galaxies assemble hierarchically, building their mass over time through the merging of smaller galactic building blocks. In the LCDM model, this hierarchical assembly is mainly governed by the distribution of the cold dark matter in the very early universe, itself determined by the details of the events following the Big Bang. The EAGLE simulations simulate these events from just after the Big Bang, right out to the present day in a representative volume of a Universe. This visualisation shows the track of all of the simulation particles which eventually form into a galaxy with a similar mass, shape and size to our galaxy, the Milky Way - a relatively large disc galaxy. 
 
